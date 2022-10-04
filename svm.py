@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 14 19:32:40 2019
-
-@author: juangabriel
-"""
-
 # SVM
-
 
 # Cómo importar las librerías
 import numpy as np
